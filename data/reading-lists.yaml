@@ -1,4 +1,24 @@
 weeks:
+  - title: "Reading List #4"
+    date: "2025-09-10"
+    description: "Insights on focus, career choices, sensitivity, and the struggle to act amidst modern distractions."
+    articles:
+      - title: "The AI Revolution"
+        url: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
+        description: "How rapidly evolving AI, through exponential growth and self-improvement—could soon reach and surpass human-level intelligence"
+
+      - title: "Safety is fatal"
+        url: "https://aeon.co/essays/on-the-dynamics-of-social-trust-in-human-cultures"
+        description: "Societies that isolate and cling inward lose resilience—trust, openness, and diversity are essential to thrive"
+
+      - title: "Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life"
+        url: "https://fs.blog/hunter-s-thompson-to-hume-logan/"
+        description: "On choosing a way of life that fits who you are, letting your goals conform to your abilities and desires, not the other way around."
+
+      - title: "The Origin of Wokeness"
+        url: "https://www.paulgraham.com/woke.html"
+        description: "On how wokeness is a modern form of moral priggishness, performatively focused on social justice"
+
   - title: "Reading List #3"
     date: "2025-07-16"
     description: "Insights on focus, career choices, sensitivity, and the struggle to act amidst modern distractions."
