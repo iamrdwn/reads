@@ -130,6 +130,7 @@ class ReadingListApp {
         }
     }
 
+
     hideLoading() {
         document.getElementById('loading').style.display = 'none';
         document.getElementById('reading-lists').style.display = 'block';
