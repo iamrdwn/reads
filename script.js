@@ -70,12 +70,16 @@ class ReadingListApp {
             </div>
         `;
 
-        // Attach click event to the whole weekDiv
         weekDiv.addEventListener('click', (e) => {
-            // Only toggle if click is inside .week-header and not on a link
-            if (e.target.closest('.week-header') && !(e.target.tagName === 'A' || e.target.closest('a'))) {
-                this.toggleWeek(weekDiv);
+            if (e.target.tagName === 'A' || e.target.closest('a')) {
+                return;
             }
+            
+            if (e.target.closest('.articles-list')) {
+                return;
+            }
+            
+            this.toggleWeek(weekDiv);
         });
 
         return weekDiv;
