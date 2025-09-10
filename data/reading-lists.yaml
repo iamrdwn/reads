@@ -1,0 +1,56 @@
+weeks:
+  - title: "Reading List #3"
+    date: "2024-09-02"
+    description: "Exploring AI, productivity, and modern web development"
+    articles:
+      - title: "The Future of AI in Creative Industries"
+        url: "https://example.com/ai-creative-industries"
+        description: "How artificial intelligence is transforming creative workflows and what it means for artists and designers."
+      
+      - title: "Building Resilient Systems: Lessons from Netflix"
+        url: "https://example.com/netflix-resilient-systems"
+        description: "Netflix's approach to building systems that can handle massive scale and unexpected failures."
+      
+      - title: "The Art of Deep Work in a Distracted World"
+        url: "https://example.com/deep-work-guide"
+        description: "Practical strategies for maintaining focus and producing high-quality work in our hyperconnected age."
+      
+      - title: "CSS Grid: The Complete Guide"
+        url: "https://example.com/css-grid-guide"
+        description: "Everything you need to know about CSS Grid layout, from basics to advanced techniques."
+
+  - title: "Reading List #2"
+    date: "2024-08-26"
+    description: "Design thinking, startup insights, and technology trends"
+    articles:
+      - title: "Design Systems That Scale"
+        url: "https://example.com/design-systems-scale"
+        description: "How to build and maintain design systems that grow with your organization."
+      
+      - title: "The Lean Startup Methodology Revisited"
+        url: "https://example.com/lean-startup-revisited"
+        description: "A fresh look at lean startup principles and how they apply to modern product development."
+      
+      - title: "Understanding WebAssembly"
+        url: "https://example.com/webassembly-guide"
+        description: "An introduction to WebAssembly and its potential to revolutionize web performance."
+      
+      - title: "The Psychology of User Experience"
+        url: "https://example.com/psychology-ux"
+        description: "How psychological principles can inform better user interface and experience design."
+
+  - title: "Reading List #1"
+    date: "2024-08-19"
+    description: "Open source, remote work, and digital minimalism"
+    articles:
+      - title: "Contributing to Open Source: A Beginner's Guide"
+        url: "https://example.com/open-source-guide"
+        description: "How to get started with open source contributions and make meaningful impact."
+      
+      - title: "The Remote Work Revolution"
+        url: "https://example.com/remote-work-revolution"
+        description: "How remote work is changing the landscape of employment and productivity."
+      
+      - title: "Digital Minimalism in Practice"
+        url: "https://example.com/digital-minimalism"
+        description: "Practical approaches to reducing digital clutter and improving focus."

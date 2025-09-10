@@ -1,0 +1,36 @@
+# GitHub Pages configuration for Srinagar Reads
+title: "Srinagar Reads"
+description: "Curated reading lists for curious minds"
+url: "https://reads.rdwn.dev"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .venv/
+  - pyproject.toml
+  - .idea/
+
+# Include files that start with underscores
+include:
+  - _config.yml
+
+# Plugin settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO settings
+author: "rdwn"
+twitter:
+  username: rdwnshfi
+social:
+  name: "rdwn"
+  links:
+    - "https://rdwn.dev"
